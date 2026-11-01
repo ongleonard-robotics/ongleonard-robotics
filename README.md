@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Leonard 👋
 
-<!--
-**ongleonard-robotics/ongleonard-robotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Year 1 student in **Robotics Systems** at the Singapore Institute of Technology.
+I like building robots that sense, decide and move on their own.
 
-Here are some ideas to get you started:
+### What I'm working on
+- 🤖 An Arduino line-following robot with PID control (Dec 2026)
+- 🧪 Learning ROS 2 in C++ (Jan 2027)
+- 🗺️ Next: **Scout**, an autonomous mobile robot with LiDAR mapping (May 2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I use
+C · C++ · Arduino · Git · Linux · CAD
+
+### Find me
+- Portfolio: https://YOUR-USERNAME.github.io
+- LinkedIn: https://www.linkedin.com/in/leonard-ong-89206b257
